@@ -34,10 +34,10 @@
         {
             "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default",
             "isDirectory": true,
-            "size": 224,
-            "modifiedTime": 1545337831574,
-            "changeTime": 1545337831574,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
+            "size": 288,
+            "modifiedTime": 1545341384581,
+            "changeTime": 1545341384581,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -45,29 +45,29 @@
     [
         "/Users/jamespoteet/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1545337981547,
             "changeTime": 1545337981547,
-            "isWorkspace": false,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/Users/jamespoteet/geolocation",
         {
-            "state": "u",
             "sourcePath": "/Users/jamespoteet/geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1545337335984,
             "changeTime": 1545337335984,
-            "isWorkspace": true,
-            "contentHash": "93b303fc40e3602ad1121ea06637359011521e16"
+            "contentHash": "93b303fc40e3602ad1121ea06637359011521e16",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -255,27 +255,27 @@
     [
         "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator",
         {
-            "state": "u",
             "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1545337981550,
             "changeTime": 1545337981550,
-            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1545337981550,
             "changeTime": 1545337981550,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -285,101 +285,192 @@
             "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 155,
-            "modifiedTime": 1545338011048,
-            "changeTime": 1545338011048,
-            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45"
+            "size": 184,
+            "modifiedTime": 1545341495704,
+            "changeTime": 1545341495704,
+            "contentHash": "080593aa1789587b43209e98cd10339b412e2314"
         }
     ],
     [
         "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1545337981548,
             "changeTime": 1545337981548,
-            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85"
+            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
-            "state": "u",
             "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 129,
             "modifiedTime": 1545338036936,
             "changeTime": 1545338036936,
-            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797"
+            "contentHash": "85b104cc64abfbfc4c3db17ed3f6622f68ff6797",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
         {
-            "state": "u",
             "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1545337981550,
             "changeTime": 1545337981550,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1545337981549,
             "changeTime": 1545337981549,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1545337981548,
             "changeTime": 1545337981548,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1545337981548,
             "changeTime": 1545337981548,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1545337981549,
             "changeTime": 1545337981549,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jamespoteet/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1545341384578,
+            "changeTime": 1545341384578,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jamespoteet/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4680,
+            "modifiedTime": 1545341384582,
+            "changeTime": 1545341384582,
+            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jamespoteet/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18199,
+            "modifiedTime": 1545341384592,
+            "changeTime": 1545341384592,
+            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jamespoteet/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5016,
+            "modifiedTime": 1545341384595,
+            "changeTime": 1545341384595,
+            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jamespoteet/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4676,
+            "modifiedTime": 1545341384598,
+            "changeTime": 1545341384598,
+            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jamespoteet/geolocation/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1545341384577,
+            "changeTime": 1545341384577,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jamespoteet/geolocation/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/jamespoteet/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1545341384598,
+            "changeTime": 1545341384598,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
